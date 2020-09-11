@@ -2,6 +2,8 @@
 
 We have structured the course so that it can answer your fundamental questions you might be having . It will also helps you discussion about the subject with friends and family because we understand that it is your precious resource that is time you are going to spend on it so you must be confident before you spend your time on it. 
 
+![](.gitbook/assets/image%20%283%29.png)
+
 We would provide you the resources and materials to learn from in the best possible way so that you get the idea of what it’s like to work as a UX designer, what is the kind of salary offered in different geography and how its look like and, equally important, how to get hired as a UX designer. 
 
 Then we will introduce you to different work processes that UX designers use to structure their design work and keep it user-focused. Then we will try to give more details ideas about the techniques and methods used in the different stages of the design process. 
