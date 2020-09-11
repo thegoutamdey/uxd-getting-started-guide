@@ -18,7 +18,8 @@
 * [Conclusion & Way Forward](conclusion-and-way-forward/README.md)
   * [Conclusion](conclusion-and-way-forward/conclusion.md)
   * [Way Forward](conclusion-and-way-forward/way-forward/README.md)
-    * [Top 5  paid UX Design courses](conclusion-and-way-forward/way-forward/best-5-paid-ux-design-courses.md)
+    * [Top 5 Free UX Design Courses](conclusion-and-way-forward/way-forward/top-5-free-ux-design-courses.md)
+    * [Top 5  paid UX Design Courses](conclusion-and-way-forward/way-forward/best-5-paid-ux-design-courses.md)
     * [Top 5 paid UX Design Bootcamp](conclusion-and-way-forward/way-forward/best-5-paid-ux-design-bootcamp.md)
 * [Course Evaluation](course-evaluation.md)
 

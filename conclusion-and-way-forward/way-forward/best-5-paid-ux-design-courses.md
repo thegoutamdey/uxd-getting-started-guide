@@ -1,2 +1,2 @@
-# Top 5  paid UX Design courses
+# Top 5  paid UX Design Courses
 
