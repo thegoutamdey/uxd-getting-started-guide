@@ -12,9 +12,5 @@
 
 {% page-ref page="what-ux-designers-do-on-a-daily-basis.md" %}
 
-{% page-ref page="best-5-paid-ux-design-courses.md" %}
-
-{% page-ref page="best-5-paid-ux-design-bootcamp.md" %}
-
 
 

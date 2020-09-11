@@ -8,8 +8,6 @@
   * [UX Designers Salary by Geography](introduction-to-ux-design/ux-designers-salary-by-geography.md)
   * [UX Roles and Responsibilities](introduction-to-ux-design/ux-roles-and-responsibilities.md)
   * [What UX designers do on a daily basis?](introduction-to-ux-design/what-ux-designers-do-on-a-daily-basis.md)
-  * [Top 5  paid UX Design courses](introduction-to-ux-design/best-5-paid-ux-design-courses.md)
-  * [Top 5 paid UX Design Bootcamp](introduction-to-ux-design/best-5-paid-ux-design-bootcamp.md)
 * [User Experience Design](user-experience-design/README.md)
   * [What is User Experience Design](user-experience-design/untitled.md)
   * [Skills for UX Designer](user-experience-design/skills-for-ux-designer.md)
@@ -18,5 +16,8 @@
 * [UX Design Tools](ux-design-tools.md)
 * [Conclusion & Way Forward](conclusion-and-way-forward/README.md)
   * [Conclusion](conclusion-and-way-forward/conclusion.md)
-  * [Way Forward](conclusion-and-way-forward/way-forward.md)
+  * [Way Forward](conclusion-and-way-forward/way-forward/README.md)
+    * [Top 5  paid UX Design courses](conclusion-and-way-forward/way-forward/best-5-paid-ux-design-courses.md)
+    * [Top 5 paid UX Design Bootcamp](conclusion-and-way-forward/way-forward/best-5-paid-ux-design-bootcamp.md)
+* [Course Evaluation](course-evaluation.md)
 
