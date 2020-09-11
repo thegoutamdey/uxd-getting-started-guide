@@ -13,3 +13,11 @@ The following table gives you an indicative data about the salary of a UX design
 | Canada | 34,000 | 49,000 | 69,000 |
 | India | 10,000 | 20,000 | 45,000 |
 
+
+
+For further reference you can have a look at Linkedin State Salary report of 2017.
+
+{% embed url="https://www.linkedin.com/jobs/blog/linkedin-2017-us-state-of-salary-report" %}
+
+
+
