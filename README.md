@@ -1,4 +1,4 @@
-# Structure of the course
+# Welcome to UX Design Getting Started
 
 We have structured the course so that it can answer your fundamental questions you might be having . It will also helps you discussion about the subject with friends and family because we understand that it is your precious resource that is time you are going to spend on it so you must be confident before you spend your time on it. 
 
