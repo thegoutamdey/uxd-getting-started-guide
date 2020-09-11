@@ -1,5 +1,11 @@
 # UX Roles and Responsibilities
 
+Before you understand the UX Roles and responsibilities it is advised to watch the following video about Generalist vs Specialist debate in the design industry and which is also applicable for UX as well. 
+
+{% embed url="https://youtu.be/Tf0wVeq3uXM" %}
+
+
+
 Broadly the following UX roles are common and ad found in Job listing 
 
 * **UX designers**
@@ -10,7 +16,8 @@ Broadly the following UX roles are common and ad found in Job listing
 * **Information architects**
 * **UX engineers**
 * **Product Designer**
-* \*\*\*\*
+
+\*\*\*\*
 
 The following slideshow can help you understand the roles of UX.
 
