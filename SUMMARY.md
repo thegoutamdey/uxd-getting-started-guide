@@ -19,10 +19,6 @@
 
 * [Untitled](ux-design-tools/untitled.md)
 
-## How to Create your first UX Portfolio
-
-* [Build your first UX portfolio Project](how-to-create-your-first-ux-portfolio/build-your-first-ux-portfolio-project.md)
-
 ## Wrap-up and Where to go from Here
 
 * [Untitled](wrap-up-and-where-to-go-from-here/untitled.md)
