@@ -1,12 +1,9 @@
-# Introduction to UX Design
+# Contents
 
-{% embed url="https://youtu.be/9BdtGjoIN4E" %}
-
-
-
-## Describing UX to Family and Friends.
-
-{% embed url="https://youtu.be/RW6c6cnHFhQ" %}
+1. Introduction to UX Design
+   1. What is UX Design?
+   2. Explaining UX to family and friends
+   3. 
 
 
 
