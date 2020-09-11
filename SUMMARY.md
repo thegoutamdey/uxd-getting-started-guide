@@ -14,6 +14,7 @@
 * [UX Design Process](ux-design-process/README.md)
   * [What is the UX design process?](ux-design-process/untitled-1.md)
 * [UX Design Tools](ux-design-tools.md)
+* [Tools of the trade](tools-of-the-trade.md)
 * [Conclusion & Way Forward](conclusion-and-way-forward/README.md)
   * [Conclusion](conclusion-and-way-forward/conclusion.md)
   * [Way Forward](conclusion-and-way-forward/way-forward/README.md)

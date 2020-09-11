@@ -12,7 +12,7 @@ UX Design process can comprise of many phases but broadly the following can be u
 
 5. **Production—**The Production phase is where the high-fidelity design is fleshed out, content and digital assets are created, and a high-fidelity version of the product is validated with stakeholders and end-users through user testing sessions. The role of the UX Designer shifts from creating and validating ideas to collaborating with developers to guide and champion the vision.
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 
 
