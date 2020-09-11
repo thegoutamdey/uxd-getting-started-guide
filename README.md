@@ -10,7 +10,7 @@ Then at the last phase we will guide you through the process of building your fi
 
 In the process we will introduce you the various tools used for all the steps of UX design process from idealisation to prototyping and to the measurement phase. We will also provide idea about  how to use those tools to complete your assignment.
 
-Here is a full lesson-by-lesson course structure breakdown:
+Here is the learning goal for this course attendees. 
 
 1. Introduction to UX Design
 2. User Experience Design

@@ -14,10 +14,7 @@
   * [What is User Experience Design](user-experience-design/untitled.md)
 * [UX Design Process](ux-design-process/README.md)
   * [Untitled](ux-design-process/untitled-1.md)
-
-## UX Design Tools
-
-* [Untitled](ux-design-tools/untitled.md)
+* [UX Design Tools](ux-design-tools.md)
 
 ## Wrap-up and Where to go from Here
 
