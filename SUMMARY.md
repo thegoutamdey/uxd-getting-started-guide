@@ -15,8 +15,7 @@
 * [UX Design Process](ux-design-process/README.md)
   * [Untitled](ux-design-process/untitled-1.md)
 * [UX Design Tools](ux-design-tools.md)
-
-## Wrap-up and Where to go from Here
-
-* [Untitled](wrap-up-and-where-to-go-from-here/untitled.md)
+* [Conclusion & Way Forward](conclusion-and-way-forward/README.md)
+  * [Conclusion](conclusion-and-way-forward/conclusion.md)
+  * [Way Forward](conclusion-and-way-forward/way-forward.md)
 
