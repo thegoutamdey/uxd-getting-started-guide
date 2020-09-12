@@ -1,2 +1,4 @@
-# Top 5  paid UX Design Courses
+# UX Design Courses
+
+![](../../.gitbook/assets/image%20%286%29.png)
 
