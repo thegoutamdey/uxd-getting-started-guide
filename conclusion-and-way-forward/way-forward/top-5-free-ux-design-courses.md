@@ -1,4 +1,4 @@
-# Free UX Design Resources
+# UX Design Resources
 
 ### Free UX Design Courses
 
