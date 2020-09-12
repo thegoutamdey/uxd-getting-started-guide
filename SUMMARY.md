@@ -22,4 +22,5 @@
     * [Top 5  paid UX Design Courses](conclusion-and-way-forward/way-forward/best-5-paid-ux-design-courses.md)
     * [Top 5 paid UX Design Bootcamp](conclusion-and-way-forward/way-forward/best-5-paid-ux-design-bootcamp.md)
 * [Course Evaluation](course-evaluation.md)
+* [Course Curators](course-curators.md)
 
