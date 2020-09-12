@@ -1,6 +1,6 @@
 # Welcome to UX Design Getting Started
 
-We have structured the course so that it can answer your fundamental questions you might be having . It will also helps you discussion about the subject with friends and family because we understand that it is your precious resource that is time you are going to spend on it so you must be confident before you spend your time on it. 
+We have structured the course so that it can answer the fundamental questions you might be having. It will also help your discussion about the subject with friends and family because we understand that it is your precious resource that is time you are going to spend on it, so you must be confident before you spend your time on it.
 
 ![](.gitbook/assets/image%20%283%29.png)
 
