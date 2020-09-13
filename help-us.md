@@ -1,4 +1,4 @@
-# Help Us
+# How to Contribute
 
 Thank you for reading this out. We are really grateful to you that you have thought of helping out. Yes people need help. We have decided to help people \(Aspiring UX Designers\)  by  design  courses with the help of publicly available contents and media.  
 

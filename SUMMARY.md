@@ -23,5 +23,5 @@
     * [UX Design Bootcamp Comparison](conclusion-and-way-forward/way-forward/paid-ux-design-bootcamp.md)
 * [Course Evaluation](course-evaluation.md)
 * [Course Curators](course-curators.md)
-* [Help Us](help-us.md)
+* [How to Contribute](help-us.md)
 
