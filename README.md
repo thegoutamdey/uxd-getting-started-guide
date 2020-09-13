@@ -14,6 +14,14 @@ We as a community decided to come up with a starter course which can guide aspir
 
 We have taken up a community initiative to come up with a UX Design getting started guide utilizing our own experience to curate the best of the best content available in the public domain and to organize in  a best possible way to develop a guide book for our aspiring UX Designers to start with.
 
+If you want to join us to develop this course and the new ones as well please fill the form below.
+
+{% embed url="https://marvelous-artisan-4513.ck.page/dd8878d8a4" %}
+
+
+
+
+
 ### Introduction to the course
 
 We have structured the course so that it can answer the fundamental questions you might be having. It will also help you to understand the subject in bit details. We understand that it is your precious resource that is time you are going to spend on it, so you must be confident before you spend your time on it.
