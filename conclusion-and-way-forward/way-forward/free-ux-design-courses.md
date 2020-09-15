@@ -5,6 +5,7 @@
 * [Udacity - Product Design by Google](https://eu.udacity.com/course/product-design--ud509)
 * [Coursera - Introduction to UX Design](https://www.coursera.org/learn/user-experience-design)
 * [Envato Tuts+ - UX Courses](https://webdesign.tutsplus.com/categories/ux)
+* [Udacity - Human-Computer Interaction](https://www.udacity.com/course/human-computer-interaction--ud400?ref=@thegoutamdey)
 
 
 
@@ -36,6 +37,14 @@
 * [Muzli](https://muz.li/) — best for visual
 * [Techcrunch](https://techcrunch.com/) — VC, funding, money stuff
 * [DesignBetter.Co](https://www.designbetter.co/) — Interviews from top design leaders
+
+### UX Books
+
+Airtable App for UX Books
+
+{% embed url="https://airtable.com/shrWXfPQYZzWMlIuU" %}
+
+
 
 
 
