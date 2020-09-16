@@ -9,7 +9,7 @@ We would **love** to get your advice on how to improve this course:
 * The 'flow' of the course
 * Others etc..
 
-Help us by being as critical as you wish. We love to get the feedback.
+Help us by being as critical as you wish. We love to get the feedback  
 
 
 
