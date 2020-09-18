@@ -10,6 +10,7 @@
   * [What UX designers do on a daily basis?](introduction-to-ux-design/what-ux-designers-do-on-a-daily-basis.md)
 * [User Experience Design](user-experience-design/README.md)
   * [What is User Experience Design](user-experience-design/untitled.md)
+  * [Introduction to UX Design](user-experience-design/introduction-to-ux-design.md)
   * [Skills for UX Designer](user-experience-design/skills-for-ux-designer.md)
 * [UX Design Process](ux-design-process/README.md)
   * [What is the UX design process?](ux-design-process/untitled-1.md)
