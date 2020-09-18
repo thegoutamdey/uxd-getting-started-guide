@@ -8,6 +8,7 @@
   * [UX Designers Salary by Geography](introduction-to-ux-design/ux-designers-salary-by-geography.md)
   * [UX Roles and Responsibilities](introduction-to-ux-design/ux-roles-and-responsibilities.md)
   * [What UX designers do on a daily basis?](introduction-to-ux-design/what-ux-designers-do-on-a-daily-basis.md)
+  * [Career change to UX?](introduction-to-ux-design/career-change-to-ux.md)
 * [User Experience Design](user-experience-design/README.md)
   * [What is User Experience Design](user-experience-design/untitled.md)
   * [UX Design by Marc Hassenzahl](user-experience-design/ux-design-by-marc-hassenzahl.md)
