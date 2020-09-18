@@ -11,6 +11,7 @@
 * [User Experience Design](user-experience-design/README.md)
   * [What is User Experience Design](user-experience-design/untitled.md)
   * [UX Design by Marc Hassenzahl](user-experience-design/ux-design-by-marc-hassenzahl.md)
+  * [Emotional Design - Don Norman](user-experience-design/emotional-design-don-norman.md)
   * [Skills for UX Designer](user-experience-design/skills-for-ux-designer.md)
 * [UX Design Process](ux-design-process/README.md)
   * [What is the UX design process?](ux-design-process/untitled-1.md)
