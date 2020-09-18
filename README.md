@@ -8,7 +8,7 @@ We have asked our [Linkedin community](https://www.linkedin.com/groups/1875717/)
 
 ### What is this course all about?
 
-We as a community decided to come up with a starter course which can guide aspiring UX designers to take informed decisions and choose the right path.  This guide/course is never done and will always be updated by the community so it is a live guide or course. You can also update this by requesting the content which you think is appropriate and should be included in this course. This is an open source giude/course and available at github for you to use at [https://github.com/thegoutamdey/uxd-getting-started-guide](https://github.com/thegoutamdey/uxd-getting-started-guide).
+We as a community decided to come up with a starter course which can guide aspiring UX designers to take informed decisions and choose the right path.  This guide/course is never done and will always be updated by the community so it is a live guide or course. You can also update this by requesting the content which you think is appropriate and should be included in this course. This is an open source giude/course and available at github for you to use at [https://github.com/thegoutamdey/uxd-getting-started-guide](https://github.com/thegoutamdey/uxd-getting-started-guide). If you find any issue or candidate for correction , please let us know by raising issue at [https://github.com/thegoutamdey/uxd-getting-started-guide/issues](https://github.com/thegoutamdey/uxd-getting-started-guide/issues).
 
 ### How this course is developed?
 
