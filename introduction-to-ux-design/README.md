@@ -12,5 +12,7 @@
 
 {% page-ref page="what-ux-designers-do-on-a-daily-basis.md" %}
 
+{% page-ref page="career-change-to-ux.md" %}
+
 
 
