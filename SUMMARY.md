@@ -15,7 +15,7 @@
   * [Emotional Design - Don Norman](user-experience-design/emotional-design-don-norman.md)
   * [Skills for UX Designer](user-experience-design/skills-for-ux-designer.md)
 * [UX Design Process](ux-design-process/README.md)
-  * [What is the UX design process?](ux-design-process/untitled-1.md)
+  * [What is UX design process?](ux-design-process/untitled-1.md)
   * [UX Strategy](ux-design-process/ux-strategy.md)
   * [UX Research](ux-design-process/ux-research.md)
 * [UX Design Tools](ux-design-tools/README.md)

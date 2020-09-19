@@ -1,4 +1,4 @@
-# What is the UX design process?
+# What is UX design process?
 
 UX Design process can comprise of many phases but broadly the following can be used as generic stages.
 
