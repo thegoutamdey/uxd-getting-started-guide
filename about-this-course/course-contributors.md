@@ -12,3 +12,9 @@ User Experience Designer · User Acceptance Testing Analyst · Interaction Desig
 
 Graphic Designer · User Experience Designer · User Experience Design Specialist
 
+
+
+
+
+If you want to contribute to this course and other courses please join us. _Send mail to **thegoutamdey@gmail.com**_ or DM me at _**@thegoutamdey**_  with your idea, content and research work. 
+
