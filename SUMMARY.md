@@ -16,6 +16,7 @@
   * [Skills for UX Designer](user-experience-design/skills-for-ux-designer.md)
 * [UX Design Process](ux-design-process/README.md)
   * [What is the UX design process?](ux-design-process/untitled-1.md)
+  * [UX Strategy](ux-design-process/ux-strategy.md)
 * [UX Design Tools](ux-design-tools/README.md)
   * [Tools of the trade](ux-design-tools/tools-of-the-trade.md)
 * [Building Your First UX Portfolio](building-your-first-ux-portfolio.md)
