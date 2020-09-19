@@ -95,7 +95,11 @@ Just as card sorts are a great way to gather information before a website’s ar
 
 A/B testing is another way of learning what actions users take. An A/B test is typically chosen as the appropriate research form when designers are struggling to choose between two competing elements. Whether the options are two styles of content, a button vs. a link, or two approaches to a home page design, an A/B test requires randomly showing each version to an equal number of users, and then reviewing analytics on which version better accomplished a specific goal. A/B testing is particularly valuable when comparing a revised screen to an older version, or when collecting data to prove an assumption.
 
-Further Reading
+### Further Readings
+
+* [UX Research Cheat Sheet](https://www.nngroup.com/articles/ux-research-cheat-sheet/?ref=thegoutamdey)
+* [The Complete Guide to UX Research Methods](https://www.toptal.com/designers/user-research/guide-to-ux-research-methods?ref=thegoutamdey)
+* [A Crash Course in UX Design Research](https://uxdesign.cc/a-crash-course-in-ux-design-research-ea00c3307c82?ref=thegoutamdey)
 
 
 
