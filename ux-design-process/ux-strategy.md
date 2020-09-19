@@ -41,6 +41,16 @@ Often, a UX Strategy can take the form of a document containing the information 
 
 {% embed url="https://youtu.be/Hr1rN3jibIk" %}
 
+### 
+
+### Further Readings
+
+* [7 Steps to Creating a Solid UX Strategy](https://designshack.net/articles/ux-design/7-steps-creating-a-ux-strategy/?ref=thegoutamdey) 
+* [What Does a UX Strategist Actually Do?](https://careerfoundry.com/en/blog/ux-design/what-does-a-ux-strategist-actually-do/?ref=thegoutamdey)
+* [The 4 Elements of Every Worthwhile UX Strategy](https://www.depalmastudios.com/blog/the-4-elements-of-every-worthwhile-ux-strategy?ref=thegoutamdey)
+
+
+
 
 
 Source credit: [https://medium.com/@MentorMate/what-is-user-experience-strategy-7af34d694fbb\#:~:text=A%20UX%20strategy%20is%20the,experience%20its%20products%20or%20services.](https://medium.com/@MentorMate/what-is-user-experience-strategy-7af34d694fbb#:~:text=A%20UX%20strategy%20is%20the,experience%20its%20products%20or%20services.)
