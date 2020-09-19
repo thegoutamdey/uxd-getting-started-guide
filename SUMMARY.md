@@ -27,7 +27,8 @@
     * [UX Design Resources](conclusion-and-way-forward/way-forward/free-ux-design-courses.md)
     * [Paid UX Design Courses](conclusion-and-way-forward/way-forward/paid-ux-design-courses.md)
     * [UX Design Bootcamp Comparison](conclusion-and-way-forward/way-forward/paid-ux-design-bootcamp.md)
-* [Course Evaluation](course-evaluation.md)
-* [Course Contributors](course-contributors.md)
-* [How to Contribute](help-us.md)
+* [About This Course](about-this-course/README.md)
+  * [Course Contributors](about-this-course/course-contributors.md)
+  * [Course Evaluation](about-this-course/course-evaluation.md)
+  * [How to Contribute](about-this-course/help-us.md)
 
