@@ -6,3 +6,9 @@
 
 
 
+### Portfolio Building Tips
+
+{% embed url="https://youtu.be/cYjVJZ6iPIw" %}
+
+
+
