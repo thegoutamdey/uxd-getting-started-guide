@@ -27,9 +27,11 @@ The course will help you understand the about the UX as a term, why we need this
 
 You will learn based on the curated videos, articles and blog posts available on public domain. We do not share any responsibilities towards the content we have curated in this course.  The primary objective of this course  is to guide you to start your UX understanding without breaking your bank.
 
-### SIGN-UP To Get Course Updates 
+### [SIGN-UP To Get Course Updates](https://mailchi.mp/d56697a519f7/uxd-getting-started-guide) 
 
-This is an open source guide/course and available at github for you to fork at [https://github.com/thegoutamdey/uxd-getting-started-guide](https://github.com/thegoutamdey/uxd-getting-started-guide). If you find any issue or candidate for correction , please let us know by raising issue at [https://github.com/thegoutamdey/uxd-getting-started-guide/issues](https://github.com/thegoutamdey/uxd-getting-started-guide/issues). This course is always getting updated to get update notification SIGN-UP.
+This is an open source guide/course and available at github for you to fork at [https://github.com/thegoutamdey/uxd-getting-started-guide](https://github.com/thegoutamdey/uxd-getting-started-guide). If you find any issue or candidate for correction , please let us know by raising issue at [https://github.com/thegoutamdey/uxd-getting-started-guide/issues](https://github.com/thegoutamdey/uxd-getting-started-guide/issues). This course is always getting updated to get update notification [SIGN-UP](https://mailchi.mp/d56697a519f7/uxd-getting-started-guide).
+
+{% embed url="https://mailchi.mp/d56697a519f7/uxd-getting-started-guide" %}
 
 
 
