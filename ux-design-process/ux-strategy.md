@@ -1,5 +1,9 @@
 # UX Strategy
 
+### UX Strategy Using Kano Model
+
+{% embed url="https://youtu.be/Hr1rN3jibIk" %}
+
 ### What is UX Strategy?
 
 A UX strategy is the plan and approach for a digital product.
@@ -36,10 +40,6 @@ There are a number of methods product teams can use to create a UX strategy. At 
 * Is there an opportunity to create a unique value proposition?
 
 Often, a UX Strategy can take the form of a document containing the information learned during the discovery phase: This document can be used to guide the product team and keep everyone working towards the same goal.
-
-### UX Strategy Using Kano Model
-
-{% embed url="https://youtu.be/Hr1rN3jibIk" %}
 
 ### 
 
