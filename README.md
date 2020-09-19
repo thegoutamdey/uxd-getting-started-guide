@@ -2,7 +2,9 @@
 
 The UX Design Getting Started Guide is a free and open-source reference guide that explains how to start in the field of UX Design in a simple and easy-to-use structured document.
 
-## Everything you need to learn to become an UX Designer. <a id="everything-you-need-to-learn-markdown"></a>
+### 
+
+### Everything you need to learn to become an UX Designer.
 
 UX is a broad  subject and need to understand it from inside out. But this Guide can help you understand in  a step-by-step process. 
 
