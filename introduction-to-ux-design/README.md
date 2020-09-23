@@ -1,8 +1,18 @@
 # Introduction to UX Design
 
+### Lets understand what is UX Design?
+
 {% embed url="https://youtu.be/v6n1i0qojws" %}
 
+### 
 
+### UX vs UI?
+
+{% embed url="https://youtu.be/Vnz\_JbjxKFQ" %}
+
+
+
+Lets go to the next section to understand what is UX in details from Don Norman .
 
 {% page-ref page="what-is-ux-design.md" %}
 
