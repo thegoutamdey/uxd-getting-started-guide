@@ -1,6 +1,6 @@
 # Introduction to UX Design
 
-### Lets understand what is UX Design?
+### What is UX Design?
 
 {% embed url="https://youtu.be/v6n1i0qojws" %}
 
