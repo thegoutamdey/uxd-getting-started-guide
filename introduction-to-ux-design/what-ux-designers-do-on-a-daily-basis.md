@@ -1,6 +1,6 @@
 # What UX designers do on a daily basis?
 
- Tanya Niu currently studying UX and UI design courses online, and she explains in her video how she spends her day  and organising her time.
+ [Tanya Niu](https://www.youtube.com/channel/UC-6JDZ2_bRGMrSDO2h1qn4g) currently studying UX and UI design courses online, and she explains in her video how she spends her day  and organising her time.
 
 {% embed url="https://youtu.be/7bvNFIVOk-4" %}
 

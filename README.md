@@ -45,7 +45,11 @@ This is an open source guide/course and available at github for you to fork at [
 
 ### What are our users saying about this course?
 
-**"**_**This is really good guide for UX aspirants like me who are starting fresh into this field. Thank you so much for this!**_ **"** - [_Rutuja Shinde,_](https://www.linkedin.com/in/rutuja-shinde-4a53a4187/) _Design enthusiast Aurangabad, Maharashtra, India_
+> _**This is really good guide for UX aspirants like me who are starting fresh into this field. Thank you so much for this!**_ **-** [_Rutuja Shinde,_](https://www.linkedin.com/in/rutuja-shinde-4a53a4187/) _Design enthusiast Aurangabad, Maharashtra, India_
+>
+> \_\_
+
+> _**Thank you so much for this. It will surely help me and clear the clouds for aspiring UX Designers like me.**_  -  [_Subhash U_](https://www.linkedin.com/in/subhaaashh/)_, Associate Analyst Deloitte US West Godavari, Andhra Pradesh, India_
 
 
 
