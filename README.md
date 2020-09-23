@@ -35,6 +35,18 @@ This is an open source guide/course and available at github for you to fork at [
 
 {% embed url="https://mailchi.mp/d56697a519f7/uxd-getting-started-guide" %}
 
+### 
+
+### Who are looking at this course?
+
+![Global Audience](.gitbook/assets/image%20%2811%29.png)
+
+### 
+
+### What are our users saying about this course?
+
+**"**_**This is really good guide for UX aspirants like me who are starting fresh into this field. Thank you so much for this!**_ **"** - [_Rutuja Shinde,_](https://www.linkedin.com/in/rutuja-shinde-4a53a4187/) _Design enthusiast Aurangabad, Maharashtra, India_
+
 
 
 
