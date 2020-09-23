@@ -4,7 +4,7 @@
 * [Introduction to UX Design](introduction-to-ux-design/README.md)
   * [What is UX?](introduction-to-ux-design/what-is-ux-design.md)
   * [Explaining UX to Family and Friends](introduction-to-ux-design/explaining-ux-to-family-and-friends.md)
-  * [UX Job Trends](introduction-to-ux-design/untitled.md)
+  * [UX Job Trends](introduction-to-ux-design/ux-job-trends.md)
   * [UX Designers Salary by Geography](introduction-to-ux-design/ux-designers-salary-by-geography.md)
   * [UX Roles and Responsibilities](introduction-to-ux-design/ux-roles-and-responsibilities.md)
   * [What UX designers do on a daily basis?](introduction-to-ux-design/what-ux-designers-do-on-a-daily-basis.md)
