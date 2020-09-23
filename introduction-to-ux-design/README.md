@@ -1,5 +1,9 @@
 # Introduction to UX Design
 
+{% embed url="https://youtu.be/v6n1i0qojws" %}
+
+
+
 {% page-ref page="what-is-ux-design.md" %}
 
 {% page-ref page="explaining-ux-to-family-and-friends.md" %}
