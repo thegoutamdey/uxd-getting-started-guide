@@ -1,16 +1,6 @@
 # Introduction to UX Design
 
-### What is UX Design?
-
-{% embed url="https://youtu.be/v6n1i0qojws" %}
-
 ### 
-
-### UX vs UI?
-
-{% embed url="https://youtu.be/Vnz\_JbjxKFQ" %}
-
-
 
 ### UX Basics
 
@@ -26,6 +16,22 @@ He notes that in order for there to be a meaningful and valuable user experience
 * **Findable**: Content needs to be navigable and locatable onsite and offsite
 * **Accessible**: Content needs to be accessible to people with disabilities
 * **Credible**: Users must trust and believe what you tell them
+
+### What is UX Design?
+
+{% embed url="https://youtu.be/v6n1i0qojws" %}
+
+### 
+
+### UX vs UI?
+
+{% embed url="https://youtu.be/Vnz\_JbjxKFQ" %}
+
+
+
+### 
+
+
 
 Lets go to the next section to understand [what is UX](what-is-ux-design.md) in details from Don Norman .
 
