@@ -2,7 +2,7 @@
 
 ### UX Basics
 
-![User Experience Honeycomb](../.gitbook/assets/image%20%2813%29.png)
+![User Experience Honeycomb](../.gitbook/assets/image%20%2814%29.png)
 
 At the core of UX is ensuring that users find value in what you are providing to them.  Peter Morville represents this through his User Experience Honeycomb.
 
