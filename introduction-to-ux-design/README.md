@@ -1,7 +1,5 @@
 # Introduction to UX Design
 
-### 
-
 ### UX Basics
 
 ![User Experience Honeycomb](../.gitbook/assets/image%20%2813%29.png)
