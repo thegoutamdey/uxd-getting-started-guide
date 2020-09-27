@@ -39,7 +39,7 @@ This is an open source guide/course and available at github for you to fork at [
 
 ### Who are looking at this course?
 
-![People from 38 Countries are using our course, Thank you all. ](.gitbook/assets/image%20%2812%29.png)
+![People around the world from 114 countries are taking our courses.](.gitbook/assets/image%20%2815%29.png)
 
 ### What are our users saying about this course?
 
