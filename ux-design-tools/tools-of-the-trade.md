@@ -3,7 +3,7 @@
 ### User Research
 
 * Ethnio
-* Respondant
+* [Respondent](https://www.respondent.io/)
 
 ### User Interview
 
