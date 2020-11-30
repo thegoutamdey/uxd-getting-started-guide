@@ -2,13 +2,13 @@
 
 ### User Research
 
-* Ethnio
+* [Ethnio](https://ethn.io/)
 * [Respondent](https://www.respondent.io/)
 
 ### User Interview
 
-* Zoom
-* Google Meet
+* [Zoom](https://zoom.us/)
+* [Google Meet](https://meet.google.com/)
 * Skype
 * BlueJeans
 
