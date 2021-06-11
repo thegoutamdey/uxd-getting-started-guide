@@ -1,3 +1,9 @@
+---
+description: >-
+  Free and open-source curated course that explains how to start in the field of
+  UX Design.
+---
+
 # Welcome to UX Design Getting Started
 
 The UX Design Getting Started Guide is a free and open-source reference guide that explains how to start in the field of UX Design in a simple and easy-to-use structured document.
